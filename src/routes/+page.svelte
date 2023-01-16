@@ -1,5 +1,5 @@
 <div class="card">
-    <img src="../src/images/image-qr-code.png" alt="qr-code" />
+    <img src="/images/image-qr-code.png" alt="qr-code" />
     <div class="large-text">
         Improve your front-end skills by building projects
     </div>
